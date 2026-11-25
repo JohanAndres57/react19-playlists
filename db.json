@@ -1,0 +1,24 @@
+{
+  "playlists": [
+    {
+      "id": "1",
+      "title": "Tardes de lluvia",
+      "genre": "Pop",
+      "mood": "Tranquila",
+      "totalMinutes": 45,
+      "rating": 4,
+      "description": "Canciones suaves para estudiar mientras llueve.",
+      "songs": [
+        { "title": "Canción uno", "artist": "Artista A" }
+      ],
+      "tags": ["estudiar", "calma"],
+      "favorite": false,
+      "createdAt": "2026-11-24T10:00:00.000Z",
+      "curator": {
+        "name": "Tu nombre",
+        "bio": "Melómano de Ibagué.",
+        "email": "tu@correo.com"
+      }
+    }
+  ]
+}
